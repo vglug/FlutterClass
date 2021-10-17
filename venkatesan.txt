@@ -1,5 +1,0 @@
-Shell commands
-
-cd - change directory
-cd .. - previous directory
-cd / - moving to home directory 
