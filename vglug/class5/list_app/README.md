@@ -1,16 +1,7 @@
-# list_app
+# List App Example in Flutter
 
-A new Flutter project.
+- Just list the names in card view by using flutter listview builder.
+- When click one card to open details page.
+- In bottom "Get Random Name" button. Helps to show one random name in alert dialog.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/13943321/137635160-39166c62-f445-4f7e-901f-9e152c40e501.png" alt="List app" width="250"> <img src="https://user-images.githubusercontent.com/13943321/137635165-1414be78-84e7-40a2-a078-4dc852a40752.png" alt="List app" width="250"> <img src="https://user-images.githubusercontent.com/13943321/137635167-846b1d6e-a865-45b5-9b0f-c7760d16823c.png" alt="List app" width="250">
