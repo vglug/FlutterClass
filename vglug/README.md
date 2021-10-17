@@ -30,6 +30,7 @@
 ## Class 5
 1. Listview Builder example : https://www.geeksforgeeks.org/listview-builder-in-flutter/
 2. Listview Builder minimal : https://www.kindacode.com/article/flutter-listview-builder-example/
-3. About Mozilla : https://www.mozilla.org/en-US/about/
-4. Basic linux commands : https://www.edureka.co/blog/linux-commands/  & https://linuxiac.com/basic-linux-commands/
+3. Alert dialog example : https://googleflutter.com/flutter-alertdialog/
+4. About Mozilla : https://www.mozilla.org/en-US/about/
+5. Basic linux commands : https://www.edureka.co/blog/linux-commands/  & https://linuxiac.com/basic-linux-commands/
 
