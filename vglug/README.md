@@ -34,3 +34,12 @@
 4. About Mozilla : https://www.mozilla.org/en-US/about/
 5. Basic linux commands : https://www.edureka.co/blog/linux-commands/  & https://linuxiac.com/basic-linux-commands/
 
+## Class 6
+1. Open Street Map - https://www.openstreetmap.org
+2. OSM Apps - OsmAnd+ : https://f-droid.org/en/packages/de.westnordost.streetcomplete/ & Street Complete : https://f-droid.org/en/packages/net.osmand.plus/
+3. Adhalinaal Kaadhal Seiveer : https://www.amazon.in/ஆதனிலால்-செய்வீர்-Athalinal-Kathal-Seiveer-ebook/dp/B09G32R4M6 
+4. Stateless and Stateful Widget : https://www.geeksforgeeks.org/difference-between-stateless-and-stateful-widget-in-flutter/
+5. Flutter Constructors : https://www.bezkoder.com/dart-flutter-constructors/
+6. Basic OOPs Concept : https://www.guru99.com/java-oops-concept.html
+  
+
