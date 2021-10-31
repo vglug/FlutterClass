@@ -78,14 +78,14 @@ class _MyHomePageState extends State<MyHomePage> {
               children: [
                 TextButton(
                   style: ButtonStyle(
-                    backgroundColor: MaterialStateProperty.all<Color>(Colors.red) ,
+                    backgroundColor: MaterialStateProperty.all<Color>(Colors.green) ,
                   ),
                   onPressed: _incrementCounter,
                   child: Text('Increment'),
                 ),
                 TextButton(
                   style: ButtonStyle(
-                    backgroundColor: MaterialStateProperty.all<Color>(Colors.green),
+                    backgroundColor: MaterialStateProperty.all<Color>(Colors.red),
                   ),
                   onPressed: _decrementCounter,
                   child: Text('Decrement'),
