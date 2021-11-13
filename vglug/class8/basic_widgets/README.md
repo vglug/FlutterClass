@@ -1,16 +1,7 @@
-# basic_widgets
+# Basic Widgets
 
-A new Flutter project.
+- Flutter important basic widgets
+- AppBar, Text, SizedBox, ImageFromInternet, CircleAvatar, TextField, Button, TextFormField, DropDownButton, Switch, CheckBox, RadioButton, LinearProgressIndicator, CircularProgressIndicator, Divider, Slider and SnackBar.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/13943321/141611462-07456cfa-7ee3-4455-a424-d363eadca46f.png" alt="app" width="250"> <img src="https://user-images.githubusercontent.com/13943321/141611464-b6f4df98-3b97-41ea-98d6-676ec0222bed.png" alt="app" width="250">
