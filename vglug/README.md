@@ -30,9 +30,10 @@
 ## Session 5
 1. Listview Builder example : https://www.geeksforgeeks.org/listview-builder-in-flutter/
 2. Listview Builder minimal : https://www.kindacode.com/article/flutter-listview-builder-example/
-3. Alert dialog example : https://googleflutter.com/flutter-alertdialog/
-4. About Mozilla : https://www.mozilla.org/en-US/about/
-5. Basic linux commands : https://www.edureka.co/blog/linux-commands/  & https://linuxiac.com/basic-linux-commands/
+3. Sample listing app : https://github.com/ViluppuramGLUG/FlutterClass/tree/main/vglug/class5/list_app
+4. Alert dialog example : https://googleflutter.com/flutter-alertdialog/
+5. About Mozilla : https://www.mozilla.org/en-US/about/
+6. Basic linux commands : https://www.edureka.co/blog/linux-commands/  & https://linuxiac.com/basic-linux-commands/
 
 ## Session 6
 1. Open Street Map - https://www.openstreetmap.org
@@ -43,5 +44,19 @@
 6. Basic OOPs Concept : https://www.guru99.com/java-oops-concept.html
   
 ## Session 7
-1. Row, Column, mainAxis, crosAxis properties, Expand, flex, sized box, etc - https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e & https://medium.com/jlouage/flutter-row-column-cheat-sheet-78c38d242041
-2. Software engineering - https://www.javatpoint.com/software-engineering-tutorial & https://en.wikipedia.org/wiki/Software_engineering
+1. Row, Column, mainAxis, crosAxis properties, Expand, flex, sized box, etc : https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e & https://medium.com/jlouage/flutter-row-column-cheat-sheet-78c38d242041
+2. Software engineering : https://www.javatpoint.com/software-engineering-tutorial & https://en.wikipedia.org/wiki/Software_engineering
+3. Row Column example : https://github.com/ViluppuramGLUG/FlutterClass/tree/main/vglug/class7/row_column
+4. Sample increment & decrement app : https://github.com/ViluppuramGLUG/FlutterClass/tree/main/vglug/class7/inc_dec_app
+
+## Session 8
+1. Flutter basic widgets : https://flutter.dev/docs/development/ui/widgets/basics
+2. Sample Basic widgets examples : https://github.com/ViluppuramGLUG/FlutterClass/tree/main/vglug/class8/basic_widgets
+3. Row & Column Demo app : https://github.com/ViluppuramGLUG/FlutterClass/tree/main/vglug/class8/row_column_demo
+4. HTML : https://www.w3schools.com/html/
+5. CSS : https://www.w3schools.com/css/
+
+
+
+
+
