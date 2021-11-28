@@ -56,7 +56,19 @@
 4. HTML : https://www.w3schools.com/html/
 5. CSS : https://www.w3schools.com/css/
 
+## Session 9
+1. Toast flutter sdk: https://pub.dev/packages/toast
+2. Click events: https://flutter-examples.com/flutter-set-onpressed-onclick-on-elevated-button/
+3. Ayesha short film: https://youtu.be/p2MSSTq4G8I
+4. Ayesha book: https://thamizhbooks.com/product/ayesha-ayisha-era-natrasan/
 
+## Session 10
+1. Grid view: https://www.appsdeveloperblog.com/gridview-example-in-flutter/
+2. Expansion Tile: https://medium.flutterdevs.com/expansion-tile-in-flutter-d2b7ba4a1f4b
+3. Expended widget: https://www.geeksforgeeks.org/flutter-expanded-widget/
+4. Hero Animation: https://docs.flutter.dev/development/ui/animations/hero-animations, https://blog.waldo.io/flutter-hero-widget/ & https://medium.flutterdevs.com/hero-animations-in-flutter-fe4f8b55a6df
+5. Shared preferences: https://codesinsider.com/flutter-sharedpreferences/
+6. How Internet work: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work
 
 
 
