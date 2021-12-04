@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:work1/button.dart';
-import 'package:toast/toast.dart';
+// import 'package:toast/toast.dart';
 
 class Content extends StatefulWidget {
   @override
@@ -27,10 +27,10 @@ class _ContentState extends State<Content> {
       text = a;
       clickedButton.add(text);
       if (count == 4) {
-        Toast.show(
+        /*Toast.show(
           "${clickedButton}",
           context,
-        );
+        );*/
         clickedButton = [];
         count = 0;
         text = "";
