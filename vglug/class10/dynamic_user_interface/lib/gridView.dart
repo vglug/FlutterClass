@@ -13,8 +13,8 @@ class GridViewPage extends StatelessWidget {
           padding: const EdgeInsets.all(8.0),
           child: GridView.count(
             crossAxisSpacing: 10,
-            mainAxisSpacing: 10,
-            crossAxisCount: 3,
+            mainAxisSpacing: 5,
+            crossAxisCount: 5,
             children: <Widget>[
               customContainer(),
               customContainer(),
