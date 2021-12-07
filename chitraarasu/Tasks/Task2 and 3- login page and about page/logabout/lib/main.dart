@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:logabout/about.dart';
+import 'package:logabout/widgets/button.dart';
+import 'package:logabout/widgets/textField.dart';
 
 void main() {
   runApp(MyApp());
@@ -9,6 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       theme: ThemeData.dark(),
       home: Login(),
     );
@@ -16,12 +19,20 @@ class MyApp extends StatelessWidget {
 }
 
 class Login extends StatelessWidget {
-  const Login({Key? key}) : super(key: key);
-
   @override
   Widget build(BuildContext context) {
+    nav() {
+      Navigator.push(
+        context,
+        MaterialPageRoute(
+          builder: (context) => About(),
+        ),
+      );
+    }
+
     return Scaffold(
-      backgroundColor: Colors.black87,
+      resizeToAvoidBottomInset: false,
+      backgroundColor: Color(0xFF1c1c1c),
       body: Padding(
         padding: const EdgeInsets.all(50.0),
         child: Center(
@@ -45,29 +56,34 @@ class Login extends StatelessWidget {
                   'Wiki Login',
                   style: TextStyle(
                     color: Colors.lightBlueAccent,
+                    fontSize: 25.0,
                   ),
                 ),
               ),
               SizedBox(
                 height: 20.0,
               ),
-              TextField(
-                decoration: InputDecoration(),
+              CusTextField("Username"),
+              SizedBox(
+                height: 10.0,
               ),
-              TextField(),
+              CusTextField("Password"),
               SizedBox(
                 height: 20.0,
               ),
               ElevatedButton(
                 onPressed: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                      builder: (context) => About(),
-                    ),
-                  );
+                  nav();
                 },
-                child: Text("Login"),
+                child: Padding(
+                  padding: EdgeInsets.symmetric(vertical: 10.0),
+                  child: Text(
+                    "Login",
+                    style: TextStyle(
+                      fontSize: 20.0,
+                    ),
+                  ),
+                ),
               ),
               SizedBox(
                 height: 10.0,
@@ -85,20 +101,8 @@ class Login extends StatelessWidget {
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceAround,
                 children: [
-                  OutlinedButton(
-                    onPressed: () {},
-                    child: Padding(
-                      padding: const EdgeInsets.all(8.0),
-                      child: Text("Join Wiki"),
-                    ),
-                  ),
-                  OutlinedButton(
-                    onPressed: () {},
-                    child: Padding(
-                      padding: const EdgeInsets.all(8.0),
-                      child: Text("Skip Login"),
-                    ),
-                  )
+                  OB("Join Wiki", null, nav),
+                  OB("Skip Login", null, nav),
                 ],
               )
             ],
