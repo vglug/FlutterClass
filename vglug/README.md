@@ -85,7 +85,6 @@
 ## Session 13
 1. Free Api: https://rapidapi.com/collection/list-of-free-apis
 2. HTTP package: https://pub.dev/packages/http 
-4. FutureBuilder: https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html
-5. Asynchronous programming: futures, async, await: https://dart.dev/codelabs/async-await
-6. SQL Database: https://www.w3schools.com/sql/
-
+3. Asynchronous programming: futures, async, await: https://dart.dev/codelabs/async-await
+4. SQL Database: https://www.w3schools.com/sql/
+5. DB Browser for SQLite: https://sqlitebrowser.org/
