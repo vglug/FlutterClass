@@ -74,4 +74,9 @@
 1. Custom Callback: https://medium.com/codechai/flutter-custom-widgets-callbacks-3d365d9fd37b
 2. Web View Package: https://pub.dev/packages/webview_flutter
 
-
+## Session 12
+1. What is API: https://www.mulesoft.com/resources/api/what-is-an-api#:~:text=API%20is%20the%20acronym%20for,you're%20using%20an%20API.
+2. HTTP package: https://pub.dev/packages/http 
+3. FutureBuilder: https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html
+4. Asynchronous programming: futures, async, await: https://dart.dev/codelabs/async-await
+5. What is GraphQL: https://graphql.org/
