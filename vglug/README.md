@@ -76,7 +76,8 @@
 
 ## Session 12
 1. What is API: https://www.mulesoft.com/resources/api/what-is-an-api#:~:text=API%20is%20the%20acronym%20for,you're%20using%20an%20API.
-2. HTTP package: https://pub.dev/packages/http 
-3. FutureBuilder: https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html
-4. Asynchronous programming: futures, async, await: https://dart.dev/codelabs/async-await
-5. What is GraphQL: https://graphql.org/
+2. Sample API: https://raw.githubusercontent.com/ViluppuramGLUG/FlutterClass/main/vglug/test.json
+3. HTTP package: https://pub.dev/packages/http 
+4. FutureBuilder: https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html
+5. Asynchronous programming: futures, async, await: https://dart.dev/codelabs/async-await
+6. What is GraphQL: https://graphql.org/
