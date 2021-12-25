@@ -70,5 +70,8 @@
 5. Shared preferences: https://codesinsider.com/flutter-sharedpreferences/
 6. How Internet work: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work
 
+## Session 11
+1. Custom Callback: https://medium.com/codechai/flutter-custom-widgets-callbacks-3d365d9fd37b
+2. Web View Package: https://pub.dev/packages/webview_flutter
 
 
