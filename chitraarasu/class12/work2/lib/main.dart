@@ -41,6 +41,15 @@ class _HomeState extends State<Home> {
     } else {
       print(response.statusCode);
     }
+    setData();
+  }
+
+  List<Widget> listData = [];
+
+  setData() {
+    for (var arraydata in data["info"]) {
+      listData.add(Text("$arraydata"));
+    }
   }
 
   @override
@@ -53,7 +62,7 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: data == null ? Text("") : Text(data["name"]),
+        title: Text("API"),
         centerTitle: true,
       ),
       body: data == null
@@ -70,11 +79,9 @@ class _HomeState extends State<Home> {
                     data["image"],
                     width: 200.0,
                   ),
-                  SizedBox(
-                    height: 30.0,
-                  ),
-                  Text(data["location"]),
-                  Text(data["pincode"]),
+                  Column(
+                    children: listData,
+                  )
                 ],
               ),
             ),
