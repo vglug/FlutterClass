@@ -18,23 +18,20 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(),
+      home: const MyHomePage(),
     );
   }
 }
 
 class MyHomePage extends StatefulWidget {
-
-  MyHomePage() : super();
-
+  const MyHomePage() : super();
 
   @override
   _MyHomePageState createState() => _MyHomePageState();
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-
-  void showMsg (String msg) {
+  void showMsg(String msg) {
     final snackBar = SnackBar(
       content: Text(msg),
     );
@@ -52,9 +49,11 @@ class _MyHomePageState extends State<MyHomePage> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
-              MyCustomWidget(onTap: () {
-                showMsg('This is called from inside the child widget');
-              },),
+              MyCustomWidget(
+                onTap: () {
+                  showMsg('This is called from inside the child widget');
+                },
+              ),
               MyCustomCounter(
                 onIncrement: (value) {
                   showMsg('Counter is incremented\nIncremented value: $value');
@@ -70,6 +69,3 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
-
-
-
