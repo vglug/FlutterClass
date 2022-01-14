@@ -1,16 +1,3 @@
-# mapdemo
+# Google Map Demo in Flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/13943321/149575906-1f9ceac7-6a89-45ed-85ce-e9462499b399.png" width=300 height=600> <img src="https://user-images.githubusercontent.com/13943321/149575921-79c2cd30-c383-49b3-abc6-3ca32bbb9880.png" width=300 height=600>
