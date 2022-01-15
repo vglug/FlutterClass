@@ -70,5 +70,21 @@
 5. Shared preferences: https://codesinsider.com/flutter-sharedpreferences/
 6. How Internet work: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work
 
+## Session 11
+1. Custom Callback: https://medium.com/codechai/flutter-custom-widgets-callbacks-3d365d9fd37b
+2. Web View Package: https://pub.dev/packages/webview_flutter
 
+## Session 12
+1. What is API: https://www.mulesoft.com/resources/api/what-is-an-api#:~:text=API%20is%20the%20acronym%20for,you're%20using%20an%20API.
+2. Sample API: https://raw.githubusercontent.com/ViluppuramGLUG/FlutterClass/main/vglug/test.json
+3. HTTP package: https://pub.dev/packages/http 
+4. FutureBuilder: https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html
+5. Asynchronous programming: futures, async, await: https://dart.dev/codelabs/async-await
+6. What is GraphQL: https://graphql.org/
 
+## Session 13
+1. Free Api: https://rapidapi.com/collection/list-of-free-apis
+2. HTTP package: https://pub.dev/packages/http 
+3. Asynchronous programming: futures, async, await: https://dart.dev/codelabs/async-await
+4. SQL Database: https://www.w3schools.com/sql/
+5. DB Browser for SQLite: https://sqlitebrowser.org/

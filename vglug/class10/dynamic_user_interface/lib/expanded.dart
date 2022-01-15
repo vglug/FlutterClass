@@ -14,7 +14,6 @@ class ExpandDemo extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Expanded(
-                flex: 2,
                 child: Container(
                   color: Colors.pink,
                   height: 100.0,

@@ -17,6 +17,8 @@ class _SPState extends State<SP> {
     super.initState();
   }
 
+  
+
   getPrevInput() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
     if (await prefs.getString('prevInput') != null) {

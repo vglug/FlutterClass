@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 500,
+    "dart.flutterHotReloadOnSave": "always",
+    "dart.hotReloadOnSave": "always",
+    "dart.flutterCreateOffline": true
+}
