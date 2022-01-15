@@ -88,9 +88,9 @@ class MyHomePage extends StatelessWidget {
             child: ListTile(
                 leading: CircleAvatar(
                   backgroundImage: NetworkImage(
-                      "https://t3.ftcdn.net/jpg/03/46/83/96/360_F_346839683_6nAPzbhpSkIpb8pmAwufkC7c5eD7wYws.jpg"),
+                      "https://villupuramglug.files.wordpress.com/2017/11/vpm_original.png"),
                 ),
-                // leading: Icon(Icons.list),
+                 //leading: Icon(Icons.list),
                 title: Text('Hi ${names[index]}'),
                 subtitle: Text('Welcome ${names[index]}'),
                 trailing: Icon(Icons.list),
