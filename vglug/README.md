@@ -90,7 +90,7 @@
 5. DB Browser for SQLite: https://sqlitebrowser.org/
 
 ## Session 14 
-
+1. Fetch data from the internet: https://docs.flutter.dev/cookbook/networking/fetch-data & https://www.geeksforgeeks.org/flutter-fetching-data-from-the-internet/ 
 
 ## Session 15
 1. BottomNavigationBar: https://api.flutter.dev/flutter/material/BottomNavigationBar-class.html & https://www.javatpoint.com/flutter-bottom-navigation-bar
