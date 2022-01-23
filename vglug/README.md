@@ -90,5 +90,12 @@
 5. DB Browser for SQLite: https://sqlitebrowser.org/
 
 ## Session 14
+
 ## Session 15
+1. BottomNavigationBar: https://api.flutter.dev/flutter/material/BottomNavigationBar-class.html & https://www.javatpoint.com/flutter-bottom-navigation-bar
+2. Google Map Package: https://pub.dev/packages/google_maps_flutter 
+3. Google Map Documentation: https://developers.google.com/maps/gmp-get-started
+4. Google Developer Console: https://console.cloud.google.com/
+
 ## Session 16
+
