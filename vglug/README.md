@@ -89,7 +89,7 @@
 4. SQL Database: https://www.w3schools.com/sql/
 5. DB Browser for SQLite: https://sqlitebrowser.org/
 
-## Session 14
+## Session 14 
 
 ## Session 15
 1. BottomNavigationBar: https://api.flutter.dev/flutter/material/BottomNavigationBar-class.html & https://www.javatpoint.com/flutter-bottom-navigation-bar
