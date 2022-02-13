@@ -14,7 +14,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ChangeNotifierProvider<Controller>(
-      create: (BuildContext context) => Controller(),
+      //1
+      create: (BuildContext context) => Controller(), //2
       child: MaterialApp(
         title: 'Flutter Demo',
         theme: ThemeData(
@@ -36,35 +37,6 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  TextEditingController _controller = TextEditingController();
-  onSubmit() {
-    Navigator.pop(context, _controller.value.text.trim());
-  }
-
-  Future openDialog() => showDialog(
-        context: context,
-        builder: (context) => AlertDialog(
-          title: Text("File name"),
-          content: TextField(
-            autofocus: true,
-            decoration: InputDecoration(
-              hintText: "Enter file name",
-            ),
-            controller: _controller,
-            onSubmitted: (_) {
-              onSubmit();
-            },
-          ),
-          actions: [
-            TextButton(
-              onPressed: () {
-                onSubmit();
-              },
-              child: Text("Add"),
-            ),
-          ],
-        ),
-      );
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -72,7 +44,7 @@ class _MyHomePageState extends State<MyHomePage> {
         children: [
           TextButton(
             onPressed: () async {
-              var val = await Navigator.push(
+              Navigator.push(
                   context, MaterialPageRoute(builder: (context) => AddItem()));
             },
             child: Text("Add item"),
