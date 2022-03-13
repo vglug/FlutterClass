@@ -112,3 +112,10 @@
 1. Provider : https://pub.dev/packages/provider & https://stackoverflow.com/questions/56722443/choosing-the-correct-flutter-design-pattern
 2. MVC Design Pattern : https://medium.flutterdevs.com/design-patterns-in-flutter-part-1-c32a3ddb00e2#:~:text=MVC%20stands%20for%20the%20model,is%20used%20in%20the%20application.
 3. Alternative to youtube : https://newpipe.net/
+
+## Session 20
+1. Visibility widget : https://api.flutter.dev/flutter/widgets/Visibility-class.html
+2. Stack : https://api.flutter.dev/flutter/widgets/Stack-class.html
+3. Tooltip : https://api.flutter.dev/flutter/material/Tooltip-class.html
+4. Spacer : https://api.flutter.dev/flutter/widgets/Spacer-class.html
+5. Photoshop Alternative : https://www.gimp.org/
