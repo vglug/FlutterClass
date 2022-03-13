@@ -111,3 +111,4 @@
 ## Session 19
 1. Provider : https://pub.dev/packages/provider & https://stackoverflow.com/questions/56722443/choosing-the-correct-flutter-design-pattern
 2. MVC Design Pattern : https://medium.flutterdevs.com/design-patterns-in-flutter-part-1-c32a3ddb00e2#:~:text=MVC%20stands%20for%20the%20model,is%20used%20in%20the%20application.
+3. Alternative to youtube : https://newpipe.net/
