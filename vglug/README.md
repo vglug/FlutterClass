@@ -107,3 +107,5 @@
 
 ## Session 18
 1. Shared preferences: https://codesinsider.com/flutter-sharedpreferences/ & https://pub.dev/packages/shared_preferences & https://stackoverflow.com/questions/23024831/android-shared-preferences-for-creating-one-time-activity-example
+
+## Session 19
