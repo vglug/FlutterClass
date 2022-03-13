@@ -106,4 +106,4 @@
 1. Drawer : https://docs.flutter.dev/cookbook/design/drawer & https://www.javatpoint.com/flutter-drawer & https://medium.com/codechai/navigation-drawer-using-flutter-cc8a5cfcab90
 
 ## Session 18
-1. Shared preferences: https://codesinsider.com/flutter-sharedpreferences/
+1. Shared preferences: https://codesinsider.com/flutter-sharedpreferences/ & https://pub.dev/packages/shared_preferences & https://stackoverflow.com/questions/23024831/android-shared-preferences-for-creating-one-time-activity-example
