@@ -24,7 +24,7 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('WebView Example'),
+        title: const Text('WebView demo'),
       ),
       body: Container(
         alignment: Alignment.center,
