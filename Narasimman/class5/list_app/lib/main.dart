@@ -27,21 +27,15 @@ class MyHomePage extends StatelessWidget {
     "Kanagasabapathy R",
     "Kanimozhi V",
     "Narasimman.S",
-    "Naveenchandramouli B",
     "Ponneelan R",
-    "Prasanth V",
     "Prathap",
-    "Ramamoorthi B",
-    "Robert bellarmin V",
     "Santhiya M",
     "Sangeetha",
-    "Sathish",
     "Sivasakthi P",
     "Tamizhselvi S",
     "Thamizharasan.M",
     "Vaibhavi shri.A.V",
     "Venkatesan",
-    "Vignesh D"
   ];
 
   @override
