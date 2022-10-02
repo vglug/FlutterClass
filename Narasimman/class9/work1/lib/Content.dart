@@ -45,25 +45,25 @@ class _ContentState extends State<Content> {
         children: [
           Text(text),
           Button(
-            "one",
+            "1",
             () {
               setText(1);
             },
           ),
           Button(
-            "two",
+            "2",
             () {
               setText(2);
             },
           ),
           Button(
-            "three",
+            "3",
             () {
               setText(3);
             },
           ),
           Button(
-            "four",
+            "4",
             () {
               setText(4);
             },
