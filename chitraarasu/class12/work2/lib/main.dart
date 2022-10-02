@@ -62,7 +62,7 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("API EXAMPLE"),
+        title: Text("API"),
         centerTitle: true,
       ),
       body: data == null
