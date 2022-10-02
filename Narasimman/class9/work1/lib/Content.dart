@@ -15,8 +15,8 @@ class _ContentState extends State<Content> {
   var buttonList = {
     "but1": "Sabapathy",
     "but2": "Narasimman",
-    "but3": "Chitraarasu",
-    "but4": "Dheepan",
+    "but3": "Dheepan",
+    "but4": "Chitraarasu",
   };
 
   var clickedButton = [];
