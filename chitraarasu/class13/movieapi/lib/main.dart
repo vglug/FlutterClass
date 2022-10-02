@@ -46,7 +46,7 @@ class _App extends State<App> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Movies App",
+      title: "Movies API",
       home: Scaffold(
         appBar: AppBar(
           title: Text(
