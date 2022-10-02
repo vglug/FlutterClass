@@ -71,7 +71,7 @@ class MyHomePage extends StatelessWidget {
         itemCount: names.length,
         itemBuilder: (BuildContext context, index) {
           return Card(
-            margin: EdgeInsets.only(top: 5, left: 10, right: 10, bottom: 5),
+            margin: EdgeInsets.only(top: 6, left: 11, right: 11, bottom: 6),
             child: ListTile(
                 leading: CircleAvatar(
                   backgroundImage: NetworkImage(
