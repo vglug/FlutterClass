@@ -13,8 +13,8 @@ class _ContentState extends State<Content> {
   int count = 0;
 
   var buttonList = {
-    "but1": "Narasimman",
-    "but2": "Sabapathy",
+    "but1": "Sabapathy",
+    "but2": "Narasimman",
     "but3": "Chitraarasu",
     "but4": "Dheepan",
   };
