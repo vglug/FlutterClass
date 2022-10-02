@@ -55,7 +55,7 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Home'),
+        title: Text('Name List'),
       ),
       floatingActionButton: FloatingActionButton.extended(
         onPressed: () {
