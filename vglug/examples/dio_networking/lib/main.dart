@@ -1,3 +1,4 @@
+import 'package:dio_networking/ui/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       debugShowCheckedModeBanner: false,
-      home: Text("DIO"),
+      home: HomePage(),
     );
   }
 }
