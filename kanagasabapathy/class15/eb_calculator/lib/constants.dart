@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 var kAlertTitle = TextStyle(color: Color(0xFF53BDFF), fontFamily: 'Spartan MB');
 
-var kAlertValue = TextStyle(fontSize: 30.0, color: Color(0xFFF4A442), fontFamily: 'Spartan MB');
+var kAlertValue = TextStyle(fontSize: 29.0, color: Color(0xFFF4A442), fontFamily: 'Spartan MB');
 
 var kCardColor = Color(0xFF5ccce8);
 
