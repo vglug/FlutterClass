@@ -88,7 +88,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     backgroundColor: MaterialStateProperty.all<Color>(Colors.red),
                   ),
                   onPressed: _decrementCounter,
-                  child: Text('Decrement'),
+                  child: Text('Decrement Number'),
                 ),
               ],
             ),
