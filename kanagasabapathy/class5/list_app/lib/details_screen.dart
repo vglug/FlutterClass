@@ -12,7 +12,7 @@ class DS extends StatelessWidget {
         title: Text('Details'),
       ),
       body: Container(
-        child: Center(child: Text("Hi $name")),
+        child: Center(child: Text("Hello $name")),
       ),
     );
   }
