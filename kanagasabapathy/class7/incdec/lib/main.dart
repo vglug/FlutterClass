@@ -81,7 +81,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     backgroundColor: MaterialStateProperty.all<Color>(Colors.green) ,
                   ),
                   onPressed: _incrementCounter,
-                  child: Text('Increment'),
+                  child: Text('Increment Number'),
                 ),
                 TextButton(
                   style: ButtonStyle(
