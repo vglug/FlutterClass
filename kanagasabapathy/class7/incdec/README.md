@@ -1,6 +1,6 @@
 # incdec
 
-A new Flutter project.
+A new Flutter project by sowndar.
 
 ## Getting Started
 
