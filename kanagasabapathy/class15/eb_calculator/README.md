@@ -1,6 +1,6 @@
 # eb_calculator
 
-A new Flutter project.
+A new Flutter project by soundar.
 
 ## Getting Started
 
